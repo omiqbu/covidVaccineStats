@@ -27,7 +27,7 @@
 
           </div>
 
-          <div class="flex flex-wrap items-center justify-between w-4/12 h-full px-1 lg:w-2/12 sm:justify-around">
+          <div class="flex items-center justify-between w-4/12 h-full px-1 flex-nowrap sm:justify-around lg:w-2/12">
             
             <!-- Select Sort Type -->
             <select name="sortBy" v-model="sortBy" class="w-16 py-2 mr-1 text-xs text-gray-800 border rounded cursor-pointer sm:w-28">
