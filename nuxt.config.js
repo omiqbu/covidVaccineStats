@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "Covid Vaccination Status",
+    title: "Covid Vaccination Stats",
     htmlAttrs: {
       lang: "en"
     },
